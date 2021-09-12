@@ -1,4 +1,4 @@
-# Cedit card fraud detection using Mechine Learning
+# Cedit card fraud detection using Machine Learning
 
 ## Problem statement:
 Credit Card Fraud is one of the biggest issues faced by the government and banks and the amount of money involved in this is generally enormous. As world is getting more towards digitalization, the risk of online fraud is also increasing. The websites with online payment mode contributes to rise in online frauds. Also, due to this pandemic situation(COVID-19), everyone prefers to do cashless transaction which increases the chances of people getting trapped into such frauds.
